@@ -1,0 +1,9 @@
+Dogs 60
+Cats 45
+Fish 92
+Pigs 57
+Birds 74
+Frogs 6
+Cows 18
+None 6
+Horses 18
